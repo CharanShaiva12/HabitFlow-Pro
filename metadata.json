@@ -1,0 +1,6 @@
+{
+  "name": "Spreadsheet Habit Tracker",
+  "description": "A high-fidelity spreadsheet-style habit and routine tracker matching dark Excel layouts, complete with custom themes, automatic calculation sheets, overall wellness logging, interactive SVG charts, a separate DSA learning modules list, and full CSV export/import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
